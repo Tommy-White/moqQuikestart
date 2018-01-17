@@ -1,0 +1,15 @@
+D:\VSTest\MoqDemo\MoqDemo\obj\Debug\MoqDemo.csprojResolveAssemblyReference.cache
+D:\VSTest\MoqDemo\MoqDemo\obj\Debug\MoqDemo.csproj.CoreCompileInputs.cache
+D:\VSTest\MoqDemo\MoqDemo\bin\Debug\MoqDemo.exe.config
+D:\VSTest\MoqDemo\MoqDemo\bin\Debug\MoqDemo.exe
+D:\VSTest\MoqDemo\MoqDemo\bin\Debug\MoqDemo.pdb
+D:\VSTest\MoqDemo\MoqDemo\bin\Debug\Castle.Core.dll
+D:\VSTest\MoqDemo\MoqDemo\bin\Debug\Moq.dll
+D:\VSTest\MoqDemo\MoqDemo\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VSTest\MoqDemo\MoqDemo\bin\Debug\System.ValueTuple.dll
+D:\VSTest\MoqDemo\MoqDemo\bin\Debug\Castle.Core.xml
+D:\VSTest\MoqDemo\MoqDemo\bin\Debug\Moq.pdb
+D:\VSTest\MoqDemo\MoqDemo\bin\Debug\Moq.xml
+D:\VSTest\MoqDemo\MoqDemo\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VSTest\MoqDemo\MoqDemo\obj\Debug\MoqDemo.exe
+D:\VSTest\MoqDemo\MoqDemo\obj\Debug\MoqDemo.pdb
